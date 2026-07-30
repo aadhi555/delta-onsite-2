@@ -1,0 +1,16 @@
+manual
+about hash ring concept: https://www.geeksforgeeks.org/system-design/consistent-hashing/
+
+x-user-id: https://stackoverflow.com/questions/25433258/what-is-the-x-request-id-http-header
+
+using nginx as http load balancing: https://nginx.org/en/docs/http/load_balancing.html
+
+load balancing using hash method: https://stackoverflow.com/questions/29910778/load-balancing-with-nginx-using-hash-method
+
+python web server - https://dev.to/yosi/building-a-python-web-app-with-flask-and-nginx-5ah3
+
+nginx reload:
+docker-compose up -d --build backend4 && docker-compose exec nginx nginx -s reload
+
+to log the difference in test script:
+https://stackoverflow.com/questions/18709943/finding-how-many-lines-are-different-between-two-files
